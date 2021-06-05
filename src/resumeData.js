@@ -81,7 +81,7 @@ let resumeData = {
       {
         "name":"Blog app",
         "description":"Blogging website build using NodeJS",
-        "imgurl":"images/portfolio/blog.jpg"
+        "imgurl":"images/portfolio/blog.JPG"
       },
       {
         "name":"Covid Case tracker",
@@ -91,7 +91,7 @@ let resumeData = {
       {
         "name":"Chat APP (Buddy)",
         "description":"Real time chat Application using java, firebase.",
-        "imgurl":"images/portfolio/chatapp.jpg"
+        "imgurl":"images/portfolio/chatapp.JPG"
       },
     ]
   }
