@@ -76,22 +76,26 @@ let resumeData = {
       {
         "name":"To Do List",
         "description":"To Do List on Live Server made using ReactJS https://todolist-prathmesh.herokuapp.com/",
-        "imgurl":"images/portfolio/toDoList.JPG"
+        "imgurl":"images/portfolio/toDoList.JPG",
+        "link" : "https://todolist-prathmesh.herokuapp.com/"
       },
       {
         "name":"Blog app",
         "description":"Blogging website build using NodeJS",
-        "imgurl":"images/portfolio/blog.JPG"
+        "imgurl":"images/portfolio/blog.JPG",
+        "link" : "https://github.com/Prathmesh2000/Blogging-Site.git"
       },
       {
         "name":"Covid Case tracker",
         "description":"Live covid cases tracker using reactJS and Rest API",
-        "imgurl":"images/portfolio/cct.jpg"
+        "imgurl":"images/portfolio/cct.jpg",
+        "link" : "https://coronacasesupdate.herokuapp.com/"
       },
       {
         "name":"Chat APP (Buddy)",
         "description":"Real time chat Application using java, firebase.",
-        "imgurl":"images/portfolio/chatapp.JPG"
+        "imgurl":"images/portfolio/chatapp.JPG",
+        "link" : "https://github.com/Prathmesh2000/Chat-App.git"
       },
     ]
   }
